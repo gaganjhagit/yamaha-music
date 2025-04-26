@@ -8,6 +8,7 @@ return(
       <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout/>}>
+        <Route path="/" element={<Layout/>}>
         
         </Route>
       </Routes>
